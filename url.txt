@@ -1,0 +1,2 @@
+file kaggle : https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset
+URL Huggingface : https://huggingface.co/spaces/kuratchikuma/tugas_milestone_fahri
